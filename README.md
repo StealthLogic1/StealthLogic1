@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @StealthLogic1
-- 👀 I’m interested in programming and cyber secrity. I mainly work on games, and just work on other dumb stuff.
+- 👀 I’m interested in programming and cyber security. I mainly work on games, and just work on other dumb stuff.
 - 🌱 I’m currently, well, programming.
 - 📫 You can follow me on twitter @Stealth_Logic
