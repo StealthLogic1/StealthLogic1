@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @StealthLogic1
-- 👀 I’m a programmer in web development, and an asiring engine dev
-- 🌱 I am currently working on making a working 2D engine by the end of 2022, and improving my web development skills.
+- 💻 I am a programmer mainly focused in web development, and becoming an engine developer.
+- 📢 You can join my discord server, The Techno Realm, to talk about technology, programming, science, and more: https://discord.gg/7gcf5HTuVT
 - 📫 You can follow me on twitter @Stealth_Logic
