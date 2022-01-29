@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @StealthLogic1
-- 👀 I’m interested in programming and cyber security. I mainly work on games, and just work on other dumb stuff.
-- 🌱 I’m currently, well, programming.
+- 👀 I’m a programmer in web development, and an asiring engine dev
+- 🌱 I am currently working on making a working 2D engine by the end of 2022, and improving my web development skills.
 - 📫 You can follow me on twitter @Stealth_Logic
