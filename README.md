@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @StealthLogic1
-- 💻 I am a programmer mainly focused in web development, and becoming an engine developer.
-- 📢 You can join my [Discord](https://discord.gg/7gcf5HTuVT) server, The Techno Realm, to talk about technology, programming, science, and more.
-- 📫 You can follow me on twitter @Stealth_Logic
+**// StealthLogic**
+
+Hey, I am StealthLogic.
+- Programmer, mainly in web development.
+- 3D modeller
+- My favorite programmers: @benjysugi and @kimathidevv
