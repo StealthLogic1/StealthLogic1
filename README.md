@@ -9,6 +9,6 @@ __Some things to know about me:__
 __Where to find me:__
 - My [Discord server.](https://discord.gg/7gcf5HTuVT)
 - My [Twitter profile.](https://twitter.com/Stealth_Logic)
-- My [profile card.](stealthlogic.carrd.co)
+- My [profile card.](https://stealthlogic.carrd.co)
 
 __Ciao!__
