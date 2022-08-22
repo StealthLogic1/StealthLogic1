@@ -10,7 +10,7 @@ __Languages I know:__
 - Lua
 - JavaScript
 - CSS
-- C# (Not fluent yet)
+- C#
 - C++ (Not fluent yet)
 
 __Where to find me:__
