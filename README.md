@@ -8,7 +8,7 @@ __Some things to know about me:__
 
 __Languages I know:__
 - Lua
--JavaScript
+- JavaScript
 - CSS
 - C# (Not fluent yet)
 - C++ (Not fluent yet)
