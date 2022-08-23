@@ -1,7 +1,7 @@
 **Hiya, I'm Stealth!**
 
 __Some things to know about me:__
-- CEO of @NightByteOfficial
+- CEO of @NightByteOfficial and @PhantasmWorldWide
 - I am a programmer, working mainly in web development and game development.
 - I am an avid Cybersecurity/Cryptography learner and enthusiast. Aspiring hacker.
 - Side fact: I am interested and do both skateboarding and boxing!
